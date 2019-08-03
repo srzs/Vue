@@ -1,7 +1,7 @@
 <template>
 
   <div class="login-wrap" :style="divimg">
-
+  <h1> 11111111111</h1>
     <div>
       <p class="p-title">LCG我爱编码,蛟龙在线,欢迎点评</p>
     </div>
